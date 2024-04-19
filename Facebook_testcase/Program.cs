@@ -166,7 +166,7 @@ namespace FacebookSignup
             {
                 driver.Quit();
             }
-           }
+            }
         }
     }
 }
